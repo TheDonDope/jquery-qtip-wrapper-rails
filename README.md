@@ -1,5 +1,8 @@
 # Jquery::Qtip::Wrapper::Rails
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/) 
+**IMPORTANT NOTE:** Since [qTip 1.0 is obsolete](http://qtip1.com/), this gem is no longer maintained. Consider switching to [jquery-qtip2-wrapper-rails](https://rubygems.org/gems/jquery-qtip2-wrapper-rails).
+
 This gem is a simple wrapper around the jQuery qTip plugin.
 It is bundled as a gem to be able to include this 3rd party asset into the asset pipeline, without having to locally import the actual CSS and JavaScript into your project.
 Please see http://craigsworks.com/projects/qtip for the original plugin.
